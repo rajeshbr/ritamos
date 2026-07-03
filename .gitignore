@@ -1,0 +1,7 @@
+build/
+output/
+*.img
+*.qcow2
+*.o
+*.a
+*.so
